@@ -1,6 +1,6 @@
 # Business Search Engine
 
-## Summary
+# Summary
 The Business Search Engine project aims to help start-ups define their market by providing a natural language search engine for services and businesses, utilizing the DPR algorithm and SBERT for improved search capabilities. <br>
 The project is in the planning stage and is scheduled from September 7, 2024, to December 31, 2024.
 
